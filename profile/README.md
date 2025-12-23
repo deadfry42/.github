@@ -6,3 +6,7 @@ a hobby programmer based in the UK
 The code quality in any of my repos is known to cause **irreparable harm** to the human mind. Please proceed with caution.
 
 Please rest assured that **no generative AI** has been used in the production of any of my (incoherent) code. I would never waste potable water on such tomfoolery.
+
+
+#### Code quality certifications
+<img width="100" height="100" alt="works on my machine" src="https://github.com/user-attachments/assets/c2674da0-2325-4e8b-b80d-d908f352fbcb" />
